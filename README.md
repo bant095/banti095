@@ -15,7 +15,7 @@ I am Abolaji Alfred, a **Frontend Engineer** based in Nigeria. To see my profile
 
 ## Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=banti095&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=banti095&hide=TeX&layout=compact&theme=prussian)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=bant095&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bant095&hide=TeX&layout=compact&theme=prussian)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=banti095.banti095)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bant095.bant095)
